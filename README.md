@@ -30,7 +30,7 @@ As this is a [JHipster](http://jhipster.github.io/) module, we expect you have [
 This module requires Jhipster version greater than 3.0 in order to work
 
 ```bash
-npm install -g generator-jhipster-entity-audit
+npm install -g generator-jhipster-entity-audit-temp-version-for-angular-9
 ```
 
 Then run the module on a JHipster generated application:

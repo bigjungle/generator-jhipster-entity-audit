@@ -1,12 +1,12 @@
 {
-  "name": "generator-jhipster-entity-audit",
-  "version": "3.3.0",
-  "description": "JHipster module to enable entity audit and audit log page",
-  "homepage": "https://github.com/hipster-labs/generator-jhipster-entity-audit",
+  "name": "generator-jhipster-entity-audit-temp-version-for-angular-9",
+  "version": "3.3.2",
+  "description": "fix version of ng-diff-match-patch (2.0.6 to 3.0.1) for angular 9 by murdos, temporarily create npm package by JasonYang",
+  "homepage": "https://github.com/bigjungle/generator-jhipster-entity-audit",
   "author": {
-    "name": "Deepu KS",
-    "email": "d4udts@gmail.com",
-    "url": "http://deepu105.github.io"
+    "name": "JasonYang",
+    "email": "jasonyang2020@outlook.com",
+    "url": "http://bigjungle.github.io"
   },
   "files": [
     "generators"
